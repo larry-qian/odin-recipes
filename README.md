@@ -1,1 +1,2 @@
 # odin-recipes
+In this Project, I will show my knowledge of a basic html boiler plate with a title, and a body. Then in the body of the html file, I will show ordered and unordered lists, images, links, headings, and paragraph texts.
